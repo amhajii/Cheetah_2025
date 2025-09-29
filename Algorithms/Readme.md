@@ -18,10 +18,10 @@
 * []()
 
 ### Basics
-* []()
+* HufmanCoding [[+]](https://github.com/amhajii/Cheetah_2025/blob/main/Algorithms/Basics/HufmanCoding.cpp)
 
 ### Arrays
-* []()
+* Kadane [[+]](https://github.com/amhajii/Cheetah_2025/blob/main/Algorithms/Arrays/kadane.cpp)
 
 
 
