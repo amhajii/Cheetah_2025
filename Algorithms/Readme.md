@@ -1,18 +1,27 @@
 # Algorithm
 
----
+<!-- --- -->
 
-### Searching
+### Searchings
 
-* Linear [[+]](https://github.com)
-* Binary [[+]](https://github.com)
+* Linear search[[+]](https://github.com)
+* Binary search[[+]](https://github.com)
 * DFS [[+]](https://github.com)
 * BFS [[+]](https://github.com)
 
-### Sorting
+### Sortings
+* Heap Sort[[+]](https://github.com)
+* Insertion Sort[[+]](https://github.com)
+* Selection Sort[[+]](https://github.com)
+
 ### Graphs
+* []()
+
 ### Basics
+* []()
+
 ### Arrays
+* []()
 
 
 
