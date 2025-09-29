@@ -4,7 +4,7 @@
 
 ### Searchings
 
-* Linear search[[+]](https://github.com)
+* #### Linear search[[+]](https://github.com)
 * Binary search[[+]](https://github.com)
 * DFS [[+]](https://github.com)
 * BFS [[+]](https://github.com)
